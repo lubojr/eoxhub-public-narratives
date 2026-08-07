@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Welcome to Storytelling",
+    "subtitle": "An introduction on how to write interactive and multimedial stories using markdown. Scroll down to get started!",
+    "image": null,
+    "provider": [
+      "community"
+    ],
+    "file": "https://eoxhub-workspaces.github.io/eoxhub-public-narratives/pr-preview/pr-8/sample-narrative.md"
+  },
+  {
+    "title": "Monitoring Atmospheric Emissions the native way",
+    "image": "assets/previews/emissions_heat_5ccf30e4-0c70-406e-9480-ecbfe4ee37f7_preview.png",
+    "provider": [
+      "community"
+    ],
+    "file": "https://eoxhub-workspaces.github.io/eoxhub-public-narratives/pr-preview/pr-8/testid.md"
+  }
+]
